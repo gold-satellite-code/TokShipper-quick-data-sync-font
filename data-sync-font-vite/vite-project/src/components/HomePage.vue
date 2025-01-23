@@ -46,8 +46,8 @@
           <th style="width: 100px;">类别中文名</th>
           <th>利润</th>
           <th>成本</th>
-          <th>订单数</th>
           <th>用户支付总额</th>
+          <th>订单数</th>
           <th>平均利润</th>
           <th>平均成本</th>
           <th>平均用户价格</th>
